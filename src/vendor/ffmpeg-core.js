@@ -1,1 +1,1 @@
-./ffmpeg-core.mt.js
+./ffmpeg-core.st.js
