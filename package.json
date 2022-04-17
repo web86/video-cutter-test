@@ -1,7 +1,7 @@
 {
-  "name": "@brunoluiz/gifsane",
+  "name": "@web86/video-cutter-test",
   "version": "1.0.0",
-  "description": "⏯ Converts GIFs to sane controllable embed video players)",
+  "description": "Video trimmer for all browsers",
   "scripts": {
     "lint": "eslint ./src",
     "build": "rm -rf build && mkdir build && cp -R LICENSE manifest.json ./src ./build ",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brunoluiz/gifsane-extension.git"
+    "url": "git+https://github.com/web86/video-cutter-test.git"
   },
   "keywords": [],
-  "author": "Bruno Luiz Silva <contact@brunoluiz.net>",
-  "license": "ISC",
+  "author": "Web86 <contact@web86.ru>",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brunoluiz/gifsane-extension/issues"
+    "url": "https://github.com/web86/video-cutter-test/issues"
   },
-  "homepage": "https://github.com/brunoluiz/gifsane-extension#readme",
+  "homepage": "https://github.com/web86/video-cutter-test#readme",
   "devDependencies": {
     "@wext/shipit": "^0.2.1",
     "eslint": "^7.23.0",
