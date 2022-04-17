@@ -1,6 +1,6 @@
 {
   "name": "@web86/video-cutter-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Video trimmer for all browsers",
   "scripts": {
     "lint": "eslint ./src",
